@@ -1,0 +1,7 @@
+{
+  "name": "Itung Patungan v2",
+  "description": "Instantly split bills by scanning receipts. No login required.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
